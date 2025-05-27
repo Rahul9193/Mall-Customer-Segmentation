@@ -35,7 +35,7 @@ Segment customers into distinct groups for:
 ---
 
 ## 🗂 Project Structure
-KMeans-Customer-Segmentation/
+'''KMeans-Customer-Segmentation/
 ├── data/
 │ └── Mall_Customers.csv # Dataset
 │
@@ -43,10 +43,10 @@ KMeans-Customer-Segmentation/
 │ └── kmeans_clustering.ipynb # Google Colab Notebook (main analysis)
 │
 ├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── README.md # Project documentation'''
 
 ## How to Run
 
-1. Clone the repository: https://github.com/rehaan1603/Mall-Customer-Segmentation.git
+1. Clone the repository: https://github.com/Rahul9193/Mall-Customer-Segmentation.git
 2.  Install dependencies: pip install -r requirements.txt
 3.  Run the notebook
