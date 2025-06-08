@@ -48,6 +48,6 @@ Segment customers into distinct groups for:
 
 ## How to Run
 
-1. Clone the repository: https://github.com/Rahul9193/Mall-Customer-Segmentation.git
+1. Clone the repository: https://github.com/Rahul9193/SCT_ML_2.git
 2.  Install dependencies: pip install -r requirements.txt
 3.  Run the notebook
